@@ -51,7 +51,7 @@ export default function Page() {
             </Heading>
             <p className={styles.description}>
               Achieve unprecedented performance with modern frameworks and the
-              world&apos;s #1 open source CMS in one powerful headless platform.{' '}
+              world&apos;s #1 open source CMS in one powerful headless platform!{' '}
             </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
